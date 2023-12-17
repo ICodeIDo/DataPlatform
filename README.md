@@ -1,2 +1,2 @@
-# DataPlatform
+# Data Platform
 Modern Data Platform
